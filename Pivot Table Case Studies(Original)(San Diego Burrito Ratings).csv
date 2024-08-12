@@ -1,0 +1,238 @@
+Location,Burrito,Date,Recommendation,Reviewer,Notes,Yelp Rating,Cost,Tortilla (0-5),Temp (0-5),Fillings (0-5),Meat Volume (0-5),Uniformity (0-5),Salsa (0-5),Synergy (0-5),Wrap Quality (0-5)
+Donato's taco shop,California,1/18/2016,,Scott,good fries: 4/5,3.5,6.49,3,5,3.5,4,4,4,4,4
+Oscar's Mexican food,California,1/24/2016,,Scott,Fries: 3/5; too little meat,3.5,5.45,2,3.5,2.5,2,4,3.5,2.5,5
+Oscar's Mexican food,Carnitas,1/24/2016,,Emily,,,4.85,3,2,3,4.5,4,3,3,5
+Oscar's Mexican food,Carne asada,1/24/2016,,Ricardo,Go to average burrito place like Rigoberto's in la jolla; Terrible tamales,,5.25,3,2,3,4,5,4,4,5
+Pollos Maria,California,1/27/2016,Yes,Scott,,4,6.59,4,5,3.5,4.5,5,2.5,4.5,4
+Pollos Maria,combo chicken,1/28/2016,,Emily,,,6.99,3,4,3.5,2.5,2.5,2.5,4,1
+Nico's Taco Shop,California,1/30/2016,No,Scott,not fries. big potatoes,3,7.19,2,3,2,2.5,2.5,3,2,3
+Nico's Taco Shop,Carnitas,1/30/2016,,Emily,,,6.99,2.5,3,2.5,3,3.5,3,2.5,3
+Los Primos Mexican Food,Monster California,2/1/2016,,Scott,this tasted really bad leftover. not included in rating,3,9.25,2,4.5,3.5,1.5,3,3.5,4,2
+JV's Mexican Food,Carne Asada,2/6/2016,No,Scott,,4,6.25,2.5,1.5,3,4.5,3,1.5,2,4.5
+JV's Mexican Food,Surf & Turf,2/6/2016,,Emily,Huge. Shrimp is good. Meat is normal,,9.5,2.5,2.5,2.5,2.5,2,0.5,3,3.5
+Tony's Fresh Mexican Food,Chile verde pork,2/11/2016,,Marc,,3,6.95,3,4,3,4,4,1,2,1
+Tony's Fresh Mexican Food,California,2/11/2016,,Scott,,,6.25,3,3.5,4,2,3.5,1,4,4
+Tony's Fresh Mexican Food,battered fish,2/11/2016,,Nicole,,,6.99,3,1,2.5,4,4,3,4.5,5
+Tony's Fresh Mexican Food,California,2/11/2016,,Cris,"to-go, no guac or sour cream, fries are a small and underdone",,6.25,4,3,2,4,4,3,3,4
+Taco Stand,California,2/12/2016,,Emily,Horchata is very sweet,4.5,7.49,3,2.5,4,3.5,2.5,3.5,5,4.5
+Taco Stand,Surf and turf,2/12/2016,,Scott,,,8.49,4,4,4,5,4.5,3.5,4,2
+Graciela's Taco Shop,Adobada,2/14/2016,Yes,Scott,Salsa verde spicy,4,5.99,4,4,3.5,4,4.5,4,4,4.5
+Graciela's Taco Shop,Barbacoa,2/14/2016,,Emily,,,5.99,3.5,4,3,4,3,4,4,1.5
+Rigoberto's Taco Shop La Jolla,California,2/17/2016,,Leo,,2.5,6.4,3,4,3,4,2,2,3,5
+Rigoberto's Taco Shop La Jolla,California,2/17/2016,,Scott,,,6.4,3.5,3,3,4,4,1.5,3,4.5
+Lolita's taco shop,2 in 1,2/24/2016,Yes,Scott,Rolled tacos need more meat,4,8.75,1.5,2,3.5,4,1,3.5,4.5,4
+Lolita's taco shop,Adobado,2/24/2016,,Emily,Adobado reminds me of Indian food because of some mystery spice,,5.5,1.5,2.5,3,4,1.5,2.5,3.5,4.5
+Taco Stand,California,2/28/2016,Yes,Scott,,,7.49,4,3,4,4,4,4,4,3
+Taco Stand,California,2/28/2016,,Emily,,,7.49,3,2,4,4,3.5,3,4.5,4.5
+Lola's 7 Up Market & Deli,Shredded beef,2/29/2016,,Emily,Food cooks fast but checking out is painfully slow,4.5,6,2.5,2.5,4,4,4,3,3.5,1.5
+Lola's 7 Up Market & Deli,Carne asada,2/29/2016,,Scott,Beans are surprisingly good,,7,2.5,3,4,2,2,3,3.5,3.5
+Colima's Mexican Food,Hawaiian,3/3/2016,Yes,Scott,,4,6.29,3.5,5,4,3.5,4.5,3.5,3.5,4
+Colima's Mexican Food,Bandido,3/3/2016,,Sage,,,6.49,3,5,4,5,4,2.5,4.5,4
+Colima's Mexican Food,Bandido,3/3/2016,,Eli,Promising start but finished poorly,,6.49,3,4.5,3.5,3.5,3,3,3,4
+Rigoberto's Taco Shop,Carne asada,3/8/2016,,Ricardo,,4,6.6,4,2,3.5,4.5,4,3.5,4,1
+Rigoberto's Taco Shop,Campeon,3/8/2016,,Scott,,,7.65,3,1.5,3,2.5,3,3.5,2.5,4
+Raul's Mexican food,Chile verde pork,3/11/2016,,Emily,,4,5,2,3,2,2,2,2,2.5,3
+Raul's Mexican food,carne asada,3/11/2016,No,Scott,burrito was mostly tortilla,,5,2,3,1,0.5,1,1.5,1,4
+El Zarape,California,3/14/2016,,Kelsey,,4,6.25,3,5,2.75,4,1.6,3.5,3.4,5
+El Zarape,California chicken,3/14/2016,,Sage,,,6.25,3.5,5,2.5,4,2.7,3.5,3,5
+El Zarape,Azteca,3/14/2016,,Jake,,,6.25,3,5,4.5,4,4,1.5,3,5
+El Zarape,Lobster,3/14/2016,No,Scott,quite small,,9.5,3,3,3,3.5,4.5,3.5,3,3.5
+El Indio,California,3/17/2016,Yes,Scott,,3.5,7.84,4,4,4,4.5,4,3.5,3.5,4.5
+Taco stand,Carne asada,3/18/2016,Yes,Scott,,,7.89,3,3.5,4,5,5,4.5,3.5,5
+Taco stand,Al pastor,3/18/2016,,Emily,Kind of dry ,,6.99,4,3,3,4,5,3,3.5,5
+"Qdoba Mexican Grill, Seatac Airport",Custom,3/19/2016,,Sage,,,9.5,3,3,3,4,1,3,2.5,5
+Cancun Mexican & Seafood,California,3/20/2016,,Scott,A bit small,4.5,6.99,4,4.5,3.5,4,2.5,2,4,4
+Cancun Mexican & Seafood,Machaca,3/20/2016,,Emily,So hot! Egg is surprisingly good,,5.99,4,3.5,4,3.5,3.5,2,3.5,0.5
+Vallarta express,Quesaburro,3/21/2016,,Scott,,3.5,6.95,3,4,4,4,4,3.5,4.5,4.5
+Vallarta express,Philly,3/21/2016,,Torben,Guac chips have lots of cheese,,6.95,3,4.5,3,3,2,4,2,4.5
+Vallarta express,Carne asada,3/21/2016,,Ricardo,,,6.5,3.75,5,3,4.5,4.5,3.5,3,4.5
+Vallarta express,Quesa,3/21/2016,,Alex,Heart-stopping amount of cheese. Second tortilla of cheese,,6.95,2,5,4,2.5,5,3.5,2.5,4
+Vallarta express,Surf and turf,3/21/2016,,Richard,Hot carrots,,7.65,2,4,3,4,2,4,2,3
+Vallarta express,Mahi,3/21/2016,,Tom,,,7.3,3,4.5,3,3,2,3.5,2.5,4.5
+Mikes Taco Club,California,3/23/2016,Yes,Scott,,4.5,8.59,4,4.5,5,2.5,2,4,4.5,4
+Mikes Taco Club,California,3/23/2016,,Brad,,,8.59,4.5,4.5,4.5,4,4,4,4.5,5
+La Perla Cocina,Addiction,3/30/2016,No,Scott,Bland,4.5,7.99,4,4,3,1.5,3,2.5,1,3
+La Perla Cocina,Oaxacalifornia,3/30/2016,,Emily,Fries are good,,9.99,4,4.5,4,3,2,2.5,3.5,4
+Porkyland,Deborah's special,4/2/2016,,Scott,,4,8.25,4,4.5,2.5,4.5,4.5,4,3.5,5
+Porkyland,Chicken nopalito,4/2/2016,,Emily,,,7.95,2.5,2.5,3.5,3,2.5,3,3,5
+Porkyland,Chicken nopalito,4/2/2016,,Tara,,,7.95,4,5,4,3,5,3,3,5
+Porkyland,California,4/2/2016,,Andy,,,8.75,4,5,5,3,2,4,3,5
+Rigoberto's Taco Shop,California,4/3/2016,Yes,Scott,,,6.6,3,4.5,4.5,4,4.5,4.5,5,4.5
+Rigoberto's Taco Shop,Adobada,4/3/2016,,Tara,,,6.6,4,5,5,5,4,3,4.5,5
+Rigoberto's Taco Shop,California,4/7/2016,,Scott,Too much enchilada sauce this time,,6.6,3,5,3,4.5,2.5,3,4,4
+Rigoberto's Taco Shop,Surf & Turf,4/7/2016,,Bankole,Would have enjoyed it more if wasn't rating; shrimp better than meat. Quality of the shrimp really improves the burrito. Well cooked and fresh. Shrimp could have had more flavor,,7.45,3,5,2.5,3,2.5,3.75,3,4
+Rudy's Taco Shop,Chicken,4/9/2016,No,Scott,"Salsa Fresca is good, way too small",4,6.6,3.5,3,4.5,3,1,3,4,0.5
+Rudy's Taco Shop,Carnitas,4/9/2016,No,Emily,,,6.6,3,2.5,4,2,1,3,3,5
+Taco stand,Carne asada,4/14/2016,Yes,Scott,Too small ,,7.89,3,2,4,4,1.5,4.5,4.5,4.5
+Taco stand,Carne asada,4/14/2016,Yes,Richard,A little small. No rice and beans or cheese or sour cream,,7.89,3,2.5,3.5,4.5,3,4,3.5,5
+California Burritos,California Everything,4/15/2016,Yes,Scott,,4.5,6.25,4.5,4.5,3.5,3.5,3.5,3,4,5
+California Burritos,California Everything,4/15/2016,No,Brent,Brent doesn't like fries in his burrito,,6.25,4,4,2.5,3,3.5,4,4,5
+California Burritos,California Everything,4/15/2016,Yes,Luis,,,6.25,4,4.5,5,5,5,4.5,5,5
+California Burritos,Chile relleno and carnitas,4/15/2016,Yes,Karl,,,6.5,4.5,5,5,5,4,4,5,5
+California Burritos,California (only cheese),4/15/2016,Yes,Kalen,,,6.25,5,5,4,4,2,3,5,5
+Vallarta express,Fish,4/15/2016,,Erin,,,6.5,3,3,4,4,3,3,4,1.5
+Vallarta express,California,4/15/2016,,Ricardo,,,6.65,3.5,3,3.5,4.5,3.5,3.5,4,4
+Jorge's Mexicatessen,California,4/24/2016,Yes,Scott,"Cheese should be melted, potatoes are very good",4,5.95,2.5,2.5,4,3,4.5,4,4.5,4.5
+Jorge's Mexicatessen,Chimichanga beef,4/24/2016,No,Emily,,,5.5,2,4,3,3,4,3.5,3.5,3
+Senor Grubby's,California,4/24/2016,No,Scott,"The ends of the burrito were decent, but the middle was terrible without much meat",4,9,2,3.5,1.5,1,1,2.5,1.5,3.5
+Senor Grubby's,Pastor,4/24/2016,No,Emily,,,9,2.5,2.5,2.5,1,2,2.5,2,5
+Mi Asador Mexican & Seafood,California,4/27/2016,No,Scott,,4.5,6.89,3,2.5,2.5,2.5,2,3.5,3,4
+Mi Asador Mexican & Seafood,El Hawaiiano,4/27/2016,Yes,Emily,Pineapple is really good,,6.39,4,3,3.5,3,3,3.5,4,3.5
+Sotos Mexican Food,California,5/4/2016,Yes,Scott,Fries are good. Too little meat,4.5,6.75,4.5,4,4,1,3,4.5,3.5,4.5
+Sotos Mexican Food,Pastor,5/4/2016,No,Emily,Free lime. Ingredients chopped finely,,5.99,4,2,4,4,3,3.5,4,5
+"Alberto's 623 N Escondido Blvd, Escondido, CA 92025",Carne Asada,5/5/2016,Yes,Chuck K,,,4.59,4,4,5,5,5,5,5,4
+Taco stand,California,5/6/2016,Yes,Scott,Less meat than usual,,7.49,3.5,4,4,3.5,3,4,4.5,3
+Taco stand,California,5/6/2016,Yes,Ricardo,,,7.49,4,3.5,4,4.5,5,4.5,5,4.5
+Taco stand,California,5/6/2016,Yes,Luis,,,7.49,3,3,3.5,3.5,4,3.5,4,2.5
+Taco stand,California,5/6/2016,Yes,Elynn,,,7.49,4,2,5,1,3,5,4,3
+Taco stand,California,5/6/2016,Yes,Sandra,,,7.49,4,3,4.5,5,4.5,3,4.5,4
+Taco stand,Carne asada,5/6/2016,Yes,Brent,,,7.89,4,2,3,4,4,4,3.5,4
+Taco stand,Shrimp,5/6/2016,Yes,Sankeerth,,,8.95,4,4,5,5,4,5,5,5
+Vallarta express,California,5/9/2016,No,Scott,,,6.95,3,3.5,3.5,3,2.5,2.5,2.5,2
+Lolita's taco shop,California,5/12/2016,No,Scott,,,7,3,5,3.5,3,1.5,3,3,4
+Lolita's taco shop,2 in 1,5/12/2016,Yes,Bankole,,,8.75,3,4,4.7,3,2.4,2,3.7,4.5
+Lolita's taco shop,2 in 1,5/12/2016,Yes,Katie,,,8.75,4.5,3.8,4.5,3.4,1.5,3,3.8,4
+Rigoberto's Taco Shop,El Rusio,5/13/2016,No,Scott,Fries are terrible. Burrito leaked,,6.65,3,4.5,2,3.5,5,1.5,2,1.5
+Rigoberto's Taco Shop,Carne asada,5/13/2016,Yes,Ricardo,,,6.6,4,3.5,4,3.5,4,4,4.5,4.5
+Rigoberto's Taco Shop,Carne asada,5/13/2016,Yes,Erin,Meat was too salty,,6.6,4,3,3,3.5,3,3,3.5,4.5
+Rigoberto's Taco Shop,Carnitas,5/13/2016,Yes,Elynn,,,7.5,4,5,5,5,4,5,4,4
+Rigoberto's Taco Shop,Bacon breakfast,5/13/2016,Yes,Luis,,,6.25,4,3.5,4,5,5,3,5,4.5
+Rigoberto's Taco Shop,Chile Relleno,5/13/2016,Yes,Matteo,,,6.6,5,4,5,5,4,3,5,3
+Rigoberto's Taco Shop,Fish,5/13/2016,Yes,Aga,,,6,5,4.5,5,5,5,3,5,4
+Karina's Taco Shop,Bomb,5/15/2016,Yes,Scott,,4,7.99,4,4,3.5,2.5,3.5,4,3.5,2.5
+Karina's Taco Shop,California,5/15/2016,Yes,Emily,,,6.99,3.5,4,3.5,3,1,4,4,4.5
+Los Primos Mexican Food,619 Burrito Original,5/16/2016,Yes,Sai G,,,11.75,3,3,5,4,4,5,4,3
+La Perla Cocina,California,5/16/2016,Yes,Laya,A LOT of carne asada!,,6.5,4,3,4,5,4,4,4,5
+Juanita's Taco Shop,California,5/18/2016,Yes,Scott,,4,5.55,4,4.5,3,5,3,4,3,5
+Juanita's Taco Shop,Arizona,5/18/2016,Yes,Emily,,,5.55,4.5,4,4,3.5,4,3,4,5
+El Zarape,Surf and Turf,5/19/2016,Yes,Damien B,Get the green sauce,,7,5,5,5,5,5,5,5,5
+Lolita's,Bean and Cheese,5/19/2016,Yes,,,,,3.8,4,4.7,3,5,3,4.7,5
+Goody's,Custom,5/20/2016,No,Scott,Grocery store tortilla; cold guac,3.5,7.25,1.5,1,2,2,2,2,2,1
+Kotija Jr.,Fish,5/20/2016,Yes,Jonathan G,Great fish burrito. Not fishy and has great crunch from both cabbage and fried fish. Super generous with amount of fish given,,6.5,3,3,4,5,4,4,5,4
+Goody's,Custom,5/20/2016,No,Brittany T,It's gone downhill since 2013. Expensive and only ate it because there's nothing else around. closes early. skimping on the portions.,,8,3,3,2,2,2,2,2,1
+MXN on Washington,Bean and rice grande size,5/20/2016,Yes,Sarah,Got green and hot salsa put inside the burrito-drive thru,,2.99,4.5,3.5,4.5,3,3.5,3,4,4
+Goody's,Carne Asada,5/21/2016,No,Kevin,"Sucks, but it is okay.",,6.25,3.5,3,2,2.5,3,2,1.5,1
+Pedro's Tacos,California Burrito,5/22/2016,Yes,Erika N,,,6.5,3,3,5,4,4,3,5,5
+Chipotle,Custom,5/22/2016,Yes,Gurkirat S,,,7,3,3,3,3,4,4,4,4
+Taco Surf PB,California,5/23/2016,Yes,Scott,not too much rice,4,7.14,4,2,5,4,2,4,4.5,5
+Taco Surf PB,California,5/23/2016,Yes,Sage,hashbrowns instead of fries; anterior-posterior uniformity is good but medial-lateral is bad,,7.14,4,2,4,3.5,2,3,4,4
+Taco Surf PB,Carne asada,5/23/2016,Yes,Dan,one hot side and one cold side from the guac,,6.02,4.5,2,3.4,4.5,4.5,3.8,3.7,5
+Roberto's Very Mexican Food,Chicken asada,5/24/2016,No,Scott,,3.5,6.5,1.5,4,2,4.5,1,1,2,5
+Roberto's Very Mexican Food,Carnitas,5/24/2016,No,Emily,,,5.4,2,3.5,2.5,3.5,1.5,1.5,3,5
+Netos Mexican Food,California,5/26/2016,Yes,Scott,not 100% certain about the ingredients (was there guac and pico?),4.5,5.99,4.5,5,4,2,2,2,3.75,4
+Netos Mexican Food,Carne adobada,5/26/2016,Yes,Emily,"Best free chips, novel burrito",,5.5,3.5,4,3,3.5,3.5,2.5,3,2.5
+Lolita's Taco shop,Carne asada,5/27/2016,No,Scott,Way too small,,6.25,1.5,2.5,4.5,4,2,2.75,3.75,3
+Lolita's Taco shop,Shrimp,5/27/2016,Yes,Emily,,,8.95,3,3,4,3.5,3.5,2.5,4,0.5
+Lolita's Taco shop,Bean and cheese,5/27/2016,No,Scott,,,3.5,3.5,4.5,3,3,4,3,2.5,4
+Humbertos,Pollo california,5/27/2016,Yes,Logan,,,6,4,5,5,5,4,5,5,5
+Chili Peppers,Surf & Turf,5/28/2016,Yes,Chris H,,,9.43,4,5,5,5,5,5,5,5
+Pokirrito,Pokirrito classic,5/29/2016,Yes,Scott,Lotus chips add good crunch,4,11.95,3.5,4,4.5,2.5,2.5,3,4,2
+Pokirrito,Mauna Lani,5/29/2016,Yes,Emily,,,11.95,3,4,4,3,2.5,4.5,4,1.5
+Los Primos Mexican Food,California,5/29/2016,Yes,Sage,,,7.5,3,5,3.5,4,4,2.5,3,5
+Colima's,Colimas burrito,5/31/2016,Yes,Brian,,,8.25,5,5,5,5,5,3,5,4.5
+El Nopalito,Especial,6/1/2016,No,Scott,"It's pretty good for what it is, but just not the best ingredients for a burrito. also Few white people",4,4.87,3,4,2,3,5,3,2.5,5
+El Nopalito,Ranchero steak,6/1/2016,No,Emily,,,4.87,3.5,3,2.4,3.5,4.5,3,3,1.5
+Los Primos Mexican Food,Monster California,6/3/2016,No,Scott,,,9.25,2,1,3,1,3,3,2,4
+Los Primos Mexican Food,California,6/3/2016,No,Ricardo,,,7,4.5,4,4,1,1,2,2,4
+Los Primos Mexican Food,California breakfast,6/3/2016,No,Erin,,,6.25,3,4,2,1.5,1,3,1.5,3
+Los Primos Mexican Food,Baja monster,6/3/2016,No,Elynn,,,6,3,3,4,2,2,3,2,1
+Los Primos Mexican Food,Baja monster,6/3/2016,Yes,Rob,,,6,4,3.5,4,2,4,4,4,3
+Los Primos Mexican Food,Carnitas,6/3/2016,No,Matteo,,,6.35,4,4,2,3,2,2,2,3
+Los tacos,Local,6/5/2016,Yes,Scott,,4,7.9,3.5,4.5,4,1.5,1.5,3,4,5
+Los tacos,Fusion,6/5/2016,Yes,Emily,,,8.5,4,4,3.5,4,4,4,4.5,4.5
+Taco Stand,Al pastor,6/6/2016,Yes,Scott,,,6.99,4,3.5,3.5,4,5,2.5,4,4.5
+Taco Stand,Al pastor,6/6/2016,Yes,Brad P,,,6.99,4,4,4,2,3,3,4,3
+Albertacos,California,6/8/2016,Yes,Scott,,3.5,5.7,3.5,3,4,1.5,4,4,4,4
+Albertacos,Carne asada,6/8/2016,Yes,Emily,,,5.25,3.5,3,3.5,4,4,4,3.5,5
+El Rey Moro,California Surf,6/9/2016,Yes,Scott,shrimp is really good. too much chipotle sauce,4,9.19,3.5,4.5,3.5,5,4.5,3,3.5,5
+Tacos por favor,Carne asada,6/11/2016,Yes,Scott,,4,7.85,3,4.5,3.5,3.5,3.5,1,4,1
+Tacos por favor,Al pastor,6/11/2016,Yes,Christian,,,6.85,3,5,3,5,4,3,4,3
+Tacos por favor,Carne asada,6/11/2016,,Sam H,,,6.85,4,5,3,4,4,3,3,3
+El dorado Mexican food,California,6/16/2016,Yes,Scott,Salsa verde has an interesting hint of garlic,4.5,6.94,4,4,4.5,3.2,3,4.5,4.5,2
+El dorado Mexican food,Super,6/16/2016,Yes,Emily,,,6.94,3.5,3.5,3.5,4,4,4.5,3.5,4.5
+Saguaro's,Vegetarian,6/20/2016,Yes,Brian,"Great rice and beans burrito, doesn't come with cheese or sour cream. ",,5.25,4,5,5,4,4,5,5,5
+Lolita's Taco Shop,California,6/23/2016,No,Scott,,,7,2.8,3,2,2,4.5,2,1.5,4.5
+Lolita's Taco Shop,California,6/23/2016,Yes,Cris,,,7,4,4,3,4,5,4,4,5
+Lolita's Taco Shop,California,6/23/2016,,Matt,,,7,3.5,2,4,2,4,3,3,4
+Lolita's Taco Shop,Mixed,6/23/2016,Yes,Marc,,,8.25,4,3,4,4,5,3,4,5
+California Burritos,California Everything,6/24/2016,Yes,Scott,Temperature brought it down,,6.25,3.8,1.3,3.5,4.5,4.5,3.5,4,5
+California Burritos,California Everything,6/24/2016,Yes,Ricardo,,,6.25,4,4,4,4,3.5,4,4,4.5
+California Burritos,California Everything,6/24/2016,Yes,Elynn,,,6.25,3,2.5,4,4,2,2,3,4
+California Burritos,California Everything,6/24/2016,Yes,Erin,,,6.25,5,4,4.5,4,4.5,3,4,4
+California Burritos,California Everything,6/24/2016,Yes,Luis,,,6.25,4,3.5,4,4.5,4,4.5,4.5,5
+California Burritos,Carnitas,6/24/2016,Yes,Matteo,,,5.5,5,4,4,4.5,4,4,4.5,4
+California Burritos,Carne asada everything,6/24/2016,Yes,Brent,,,6.25,4,3,3,4,3,3,4,4
+California Burritos,Carne asada everything,6/24/2016,Yes,Daniel,,,6.25,4,5,4,4.5,4,3,4,5
+California Burritos,Carne asada everything,6/24/2016,Yes,Alejandro,,,6.25,4,3,4,4,4,5,5,3
+California Burritos,California Everything,8/1/2016,Yes,Ricardo,,,6.25,4,4,4,3,4,4,3.5,4.5
+California Burritos,California Everything,8/1/2016,Yes,Elynn,,,6.25,3,2,5,4,4,3,4,3
+California Burritos,California Everything,8/1/2016,Yes,Matteo,,,6.25,4,3.5,4,3.5,4,3.5,4,4.5
+California Burritos,California Everything,8/1/2016,Yes,Scott,,,6.25,3.5,2,3.5,3.5,2.5,2.5,3.5,4.5
+California Burritos,California Everything,8/1/2016,Yes,Aga,,,6.25,4,4,5,4.75,5,4,4.5,4.5
+California Burritos,Surf & Turf,8/1/2016,Yes,Hannah,,,7,3,2.5,3,3.5,4,3,3,4
+California Burritos,Carne asada everything,8/1/2016,Yes,Brent,,,6.25,4.5,4,4.5,4,4,4.5,4.5,4
+Los Primos Mexican Food,Surf & Turf,8/6/2016,No,Emily,,,7,4,4,3,2,3.5,3,3,4.5
+Los Primos Mexican Food,Adobada,8/6/2016,No,Scott,,,6.25,4,2.5,3,2,4,3.5,3,4.5
+Los Primos Mexican Food,Carne asada,8/6/2016,No,Ricardo,,,7,3.5,3,2,1,3,3.5,1.5,4
+Papa Chito's Mexican Food,California,8/9/2016,No,Scott,,2.5,6.25,3.5,3.5,2.5,2.5,4,2,1.5,5
+Papa Chito's Mexican Food,California,8/9/2016,Yes,Sage,,,6.25,4,5,3,4,3.5,4,4,5
+El Pueblo Mexican Food,California,8/10/2016,Yes,Scott,,4,4.99,4.5,4.5,4,4.5,5,2.5,4.5,5
+Burros and Fries,California,8/12/2016,Yes,Scott,good fries,3.5,6.89,3.5,4.5,3.5,3,1.5,2.5,3.5,5
+Burros and Fries,Carne asada,8/12/2016,Yes,Brent,very little guac,,6.89,3,5,4.5,3,4,4.5,4,4.5
+King Burrito,Adobada,8/16/2016,No,Emily,Too much tortilla per bite,4,4.99,3,3,3,2.5,2,2.5,3,4
+King Burrito,California,8/16/2016,No,Scott,it does taste homemade. but that's not a good thing,,5.29,2.5,4.5,3,2.5,1.5,3,2,4.5
+Taco Stand,California,8/17/2016,Yes,Scott,,,7.49,4,5,3.5,3.5,2,3.5,4,5
+Taco Stand,California,8/17/2016,Yes,TJ,,,7.49,3.5,5,3,4,4.5,3,3.5,5
+Carmen's Mexican Food,Adobada,8/19/2016,Yes,Scott,really good guac,4,6.5,2.5,4,4,4,3,1.5,3.5,5
+Carmen's Mexican Food,Carne asada,8/19/2016,Yes,Brent,,,6.5,4.5,4.5,4,4,3.5,4,4,4
+Senor Panchos,Pollo asado,8/21/2016,No,Scott,"guac is good, very avocado-y",4,6.25,2.5,3.5,3,5,4.5,3.5,2,5
+Senor Panchos,California,8/21/2016,Yes,Emily,feels very dense; a lot of meat,,6.25,3,4,3,3.5,4.5,4,4,5
+Los Cabos,California,8/27/2016,No,Scott,Repeatedly get large bites of sour cream,4,5.99,4,4.5,2.5,2.5,1.5,3,4,5
+Los Cabos,Al pastor,8/27/2016,Yes,Emily,Really good with lime,,5.69,4,4.5,3.5,4,3.5,2.5,4,4.5
+Rubios UCSD,Tilapia one,8/30/2016,No,Scott,,3.5,7.99,1.5,4,3,1.5,4.5,2.5,3,1.5
+Lucha Libre North Park,Surf & Turf,8/30/2016,Yes,Hannah,,3.5,8.25,3,2.5,3,3,3,3.5,3,3
+Lucha Libre North Park,Surf & Turf,8/30/2016,No,Tammy,,,8.25,5,3,4,2,2,5,2,2
+Lucha Libre North Park,Surf & Turf,8/30/2016,No,Bankole,Not as good as the first time,,8.25,2.1,1.9,2.4,2.9,3.2,4,2.5,3
+Lucha Libre North Park,Surf & Turf,8/30/2016,,Melissa N,,,8.25,3,2.5,2.8,3.5,3.5,4,3,4
+Lucha Libre North Park,Surf & Turf,8/30/2016,,Katie,,,8.25,3.6,3.2,3.5,3.6,3.5,3,3.8,3.9
+Lucha Libre North Park,Surfin California,8/30/2016,Yes,Emily,thick chips,,8.25,3,3,3.5,3,2,3.5,3.5,4
+Lucha Libre North Park,Surfin California,8/30/2016,,Melissa G,Good guac,,8.25,3.5,2,3,5,5,4,4,5
+Lucha Libre North Park,Surfin California,8/30/2016,Yes,Marc,"shrimp was questionable; salsa was mediocre to bad; overall ok, better than past burritos at lucha libre",,8.25,4,3,3,3,2,3,3,4
+Lucha Libre North Park,Surfin California,8/30/2016,,Ashley G,good guac but fries could be better,,8.25,3,2,3,5,5,4,3.5,5
+Lucha Libre North Park,Surfin California,8/30/2016,Yes,Richard,probably positively biased by service,,8.25,3.5,2,3.5,4,2.5,3.5,3,3.5
+Lucha Libre North Park,Surfin California,8/30/2016,Yes,Mike,,,8.25,5,4,4,3,3,4,4,4
+Lucha Libre North Park,Surfin California,8/30/2016,,Sankha G,,,8.25,4,3,3,5,4,2,3,4
+Lucha Libre North Park,Nutty,8/30/2016,,Luis,,,7.5,3.8,4,4,4,4,4.5,4.5,4.5
+Lucha Libre North Park,Veg Out,8/30/2016,Yes,Aga,,,6.95,5,5,5,3,5,4.5,5,3
+Lucha Libre North Park,Veggie,8/30/2016,Yes,Rob G,,,5.25,4.5,4.5,3.5,3,3,4,3.5,5
+Lucha Libre North Park,Bean and cheese,8/30/2016,No,Meghan,Bland,,3.75,4,3,1,3,3,3,2,3
+Lucha Libre North Park,California - Steak,8/30/2016,Yes,Scott,"first bite sour cream, but probably the best steak I've had in a burrito",,7.5,3,3,3.5,3,3.5,4.5,4,4.5
+Lucha Libre North Park,California - Steak,8/30/2016,,Devleena,fries = 4,,7.5,3.5,3,3,3,2,4,2.5,5
+Lucha Libre North Park,California - Pork Adobada,8/30/2016,Yes,Erik,,,7.5,2,3,3,4,3,4,3,5
+Lucha Libre North Park,California - Pork Adobada,8/30/2016,Yes,Ricardo,,,7.5,3.5,4,4,3.5,3.5,4,4,4.5
+Lucha Libre North Park,California - Pork Adobada,8/30/2016,Yes,Erin,,,7.5,4,5,4,4.5,4.5,5,4.5,4
+Lucha Libre North Park,California - Chicken,8/30/2016,Yes,Kelsey,,,7.5,3.5,2.5,4.5,3,2,5,4.5,3.5
+Lucha Libre North Park,California - Chicken,8/30/2016,No,Javier,"large, bt feels good in my hands",,7.5,3.5,5,4,3,3,4,2.5,5
+Lucha Libre North Park,Holy Moly,8/30/2016,,Sam A,,,7.5,3.5,2,3.5,3,4,2,2,4
+Lucha Libre North Park,Holy Moly,8/30/2016,No,Sage,all meat at bottom 1/8th,,7.5,2.5,2.5,2,2,1,5,1,5
+Lucha Libre North Park,Holy Moly,8/30/2016,Yes,Aaron S,,,7.5,5,3,5,3,2,2,3,5
+Lucha Libre North Park,Holy Moly,8/30/2016,,Jaeyoung,Ordered a specialty burrito and guess I was expecting an ordinary one! Sauce was good but overpowering; no veggies at all; overall just did not feel like a burrito.,,7.5,5,4,1,4,3,5,4,2
+Lucha Libre North Park,Holy Moly,8/30/2016,Yes,Matteo,,,7.5,4,4,4.5,4,4,5,4.5,4
+Tacos La Bala,Pastor,9/5/2016,No,Scott,Everything is in spanish. Get a taco or sope,4.5,4.99,2.5,2.5,2.5,1,1,2,4,0
+Tacos La Bala,Barbacoa,9/5/2016,No,Emily,"Burritos cut in half, felt like a wrap instead of a burrito",,4.99,2,2.5,2,3,2.5,2,2.5,2.5
+Cancun Mexican & Seafood,Adobada,9/9/2016,Yes,Scott,Free salad,,6.45,4,5,3,3.5,3.5,4,2.5,4
+Cancun Mexican & Seafood,California,9/9/2016,Yes,Emily,,,6.99,3,4.5,4,3.5,3,4,4,5
+Roberto's Taco Shop Clairemont,California,9/11/2016,Yes,Scott,Fries are really good but the overall flavor is plain because lack of ingredients,4,5.79,3,4.5,4,4,5,2.5,3,5
+Roberto's Taco Shop Clairemont,California,9/11/2016,No,Benni,,,5.79,4,3,2.5,3.5,4,2,2.5,5
+Roberto's Taco Shop Clairemont,California + Guac + sour cream,9/11/2016,Yes,Luis,,,7.29,3.8,4.7,3.5,4.5,4,4,4.5,5
+Roberto's Taco Shop Clairemont,Carne asada,9/11/2016,No,Ricardo,,,5.69,4,3,3,4,4.5,3.5,2,4.5
+Chipotle,Carnitas,9/13/2016,Yes,Emily,,3,7.15,2.5,2.5,2.8,2.5,3.5,3,3,3.5
+Taco Stand,Al Pastor,9/16/2016,Yes,Mike,,,6.99,4.5,4,4.5,4.5,4.5,4.5,5,4
+Taco Stand,California,9/16/2016,Yes,Luis,,,7.49,4,4.5,4.5,4.7,4.5,4.2,4.5,5
+Los Tacos,California,9/18/2016,Yes,Scott,Tortilla is burnt a bit but good. Pick is good,,7.9,4,5,4,3,4,3.5,4,4
+Los Tacos,Local,9/18/2016,Yes,Emily,Melted cheese is good. Cilantro is fresh,,7.9,4,3.5,4.5,3.5,3.5,3.5,4,3
+El Cuervo,California,9/22/2016,Yes,Scott,Alfajores dessert and horchata are super good,4,6.95,3.5,3.5,4,3,3,4.5,3.5,2
+El Cuervo,Pollo adobado,9/22/2016,Yes,Richard,First burrito I enjoyed from top to bottom,,5.95,3.5,5,3.5,4,4.5,4.5,4,5
+El Torrito Foods,Asada,9/25/2016,Yes,Scott,Good because so cheap,4,5.49,3,5,3,2.5,4,3.5,3,5
+El Torrito Foods,Adobada,9/25/2016,No,Emily,tamale isn't good,,3.99,3.5,4,2.5,2.8,4,2.5,2.5,5
+Taco stand,California,4/25/2026,Yes,Sage,A wonderful eating experience. best California burrito I've ever had by far. ,,8,4.5,5,5,4.5,5,3,5,5
