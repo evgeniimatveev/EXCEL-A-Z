@@ -60,7 +60,7 @@ You can download them directly from GitHub or pull them efficiently via git lfs.
 
 ```
 
-📊 Case Studies
+## 📊 Case Studies
 This project includes multiple real-world case studies for hands-on learning:
 
 #	Topic	Description
@@ -75,7 +75,7 @@ This project includes multiple real-world case studies for hands-on learning:
 
 Each folder contains datasets (.csv, .xlsx) and accompanying PDFs for step-by-step exercises.
 
-# ⚙️ How to Use
+##  ⚙️ **How to Use**
 - Option 1 — Download Directly
 - Navigate to any CSV or Excel file.
 
@@ -93,31 +93,31 @@ git lfs pull
 ```
 Then open any dataset locally in Excel or your preferred analysis tool.
 
-#  🧩 Requirements
+##  🧩 **Requirements**
 Microsoft Excel 2016 or later (Excel for Web also works).
 
 Browser access to GitHub for file downloads and documentation.
 
 (Optional) Visual Studio Code or any Markdown editor to view documentation.
 
-#  🤝 Contributing & Feedback
+## 🤝 **Сontributing & Feedback**
 Contributions and feedback are always welcome!
 If you’d like to improve the materials or add new case studies:
 
 
-# 📜 License
+## 📜 License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute the materials, provided you follow the license terms.
 See the LICENSE file for more details.
 
-# 🌟 Author
+## 🌟 **Author**
 Created and maintained by @evgeniimatveev
 Data | Excel | SQL | Automation | MLOps
 
 
 ---
 
-✅ **What changed (summary):**
+## ✅ **What changed (summary):**
 - Unified all duplicate “Structure” and “Case Studies” sections.  
 - Added a clean table for case studies.  
 - Made badges consistent and visually centered.  
