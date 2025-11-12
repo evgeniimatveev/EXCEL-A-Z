@@ -1,3 +1,9 @@
 *.csv  filter=lfs diff=lfs merge=lfs -text
 *.xls  filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+# --- Linguist hints for GitHub language bar ---
+*.csv  filter=lfs diff=lfs merge=lfs -text linguist-detectable=true linguist-language=CSV
+*.tsv  filter=lfs diff=lfs merge=lfs -text linguist-detectable=true linguist-language=TSV
+# Excel-бинарники не язык, но пусть считаются «детектируемыми»
+*.xls  filter=lfs diff=lfs merge=lfs -text linguist-detectable=true
+*.xlsx filter=lfs diff=lfs merge=lfs -text linguist-detectable=true
