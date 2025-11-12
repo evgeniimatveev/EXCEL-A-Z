@@ -49,6 +49,8 @@ archive/
 ├─ pivot-charts/                   # chart examples (PDF)
 └─ pivot-tables/                   # pivot table examples (CSV + PDF)
 
+```
+
 ## What can you expect? 
 
 - **Excel Basics:** Learn how to effectively use Excel for creating tables and charts.
