@@ -1,0 +1,41 @@
+Year,2000,,
+DivWin,(All),,
+WCWin,(All),,
+LgWin,(All),,
+WSWin,(All),,
+,,,
+Division,Team (Full),Wins, Loses
+C,Chicago Cubs,65,97
+,Chicago White Sox,95,67
+,Cincinnati Reds,85,77
+,Cleveland Indians,90,72
+,Detroit Tigers,79,83
+,Houston Astros,72,90
+,Kansas City Royals,77,85
+,Milwaukee Brewers,73,89
+,Minnesota Twins,69,93
+,Pittsburgh Pirates,69,93
+,St. Louis Cardinals,95,67
+C Total,,869,913
+E,Atlanta Braves,95,67
+,Baltimore Orioles,74,88
+,Boston Red Sox,85,77
+,Florida Marlins,79,82
+,Montreal Expos,67,95
+,New York Mets,94,68
+,New York Yankees,87,74
+,Philadelphia Phillies,65,97
+,Tampa Bay Devil Rays,69,92
+,Toronto Blue Jays,83,79
+E Total,,798,819
+W,Anaheim Angels,82,80
+,Arizona Diamondbacks,85,77
+,Colorado Rockies,82,80
+,Los Angeles Dodgers,86,76
+,Oakland Athletics,91,70
+,San Diego Padres,76,86
+,San Francisco Giants,97,65
+,Seattle Mariners,91,71
+,Texas Rangers,71,91
+W Total,,761,696
+Grand Total,,2428,2428
