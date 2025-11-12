@@ -5,6 +5,10 @@
   <img alt="Status" src="https://img.shields.io/badge/course-Excel%20A–Z-0A84FF">
 </p>
 
+![CSV](https://img.shields.io/badge/language-CSV-blue)
+![Excel](https://img.shields.io/badge/data-Excel(.xlsx)-lightgrey)
+
+---
 # Excel A–Z: The Complete Excel & Pivot Table Course
 
 Welcome to the **Excel A–Z** repository!  
