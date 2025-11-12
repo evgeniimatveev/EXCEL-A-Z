@@ -1,12 +1,53 @@
-<p>
+<p align="left">
   <img alt="CSV" src="https://img.shields.io/badge/data-CSV-blue">
   <img alt="Excel" src="https://img.shields.io/badge/data-Excel%20(.xlsx)-inactive">
   <img alt="Git LFS" src="https://img.shields.io/badge/storage-Git%20LFS-success">
+  <img alt="Status" src="https://img.shields.io/badge/course-Excel%20A–Z-0A84FF">
 </p>
 
-# Excel A-Z: The Complete Excel and Pivot Table Course
+# Excel A–Z: The Complete Excel & Pivot Table Course
 
-Welcome to the Excel A-Z course!  This project is designed for anyone looking to deepen their Excel knowledge and become a true data analysis expert. We offer a step-by-step approach to mastering Excel's most powerful tools, including Pivot Tables and Pivot Charts.
+This repository collects hands-on materials for mastering **Excel basics, Pivot Tables, and Pivot Charts** through practical case studies.  
+Everything is organized into folders with ready-to-open CSV/Excel files and PDF walk-throughs.
+
+---
+
+## Table of Contents
+- [What You’ll Learn](#what-youll-learn)
+- [Repository Structure](#repository-structure)
+- [Case Studies](#case-studies)
+- [How to Use](#how-to-use)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## What You’ll Learn
+- **Excel Basics** – tables, formatting, quick charts.
+- **Pivot Tables** – grouping, filters, calculated fields, quick insights.
+- **Pivot Charts** – visuals directly from pivots.
+- **Practical Analytics** – real datasets (IMDb, stock market, weather, salaries, etc.).
+- **Data Storytelling** – present clear insights with conditional formatting and charts.
+
+---
+
+## Repository Structure
+
+```text
+archive/
+├─ basics/                         # PDFs & handouts for fundamentals
+├─ case-studies/                   # original combined CSVs for multiple topics
+├─ case_studies(baseball-team-stats)/
+├─ case_studies(daily-weather-conditions)/
+├─ case_studies(san-diego-burrito-ratings)/
+├─ case_studies(sf-salaries)/
+├─ case_studies(shark-attack-records)/
+├─ case_studies(spartan-race-facebook-posts)/
+├─ case_studies(stock-market-data)/
+├─ case_studies(us)/
+├─ pivot-charts/                   # chart examples (PDF)
+└─ pivot-tables/                   # pivot table examples (CSV + PDF)
 
 ## What can you expect? 
 
