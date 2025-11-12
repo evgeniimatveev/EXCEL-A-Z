@@ -14,15 +14,18 @@ All files are organized into folders with ready-to-open **CSV/Excel datasets** a
 ---
 
 ## 🧭 Table of Contents
-- [What You’ll Learn](#what-youll-learn)
-- [Repository Structure](#repository-structure)
-- [Case Studies](#case-studies)
-- [How to Use](#how-to-use)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+- [📘 What You’ll Learn](#-what-youll-learn)
+- [📂 Repository Structure](#-repository-structure)
+- [📊 Case Studies](#-case-studies)
+- [⚙️ How to Use](#️-how-to-use)
+- [🧩 Requirements](#-requirements)
+- [🤝 Contributing & Feedback](#-contributing--feedback)
+- [📜 License](#-license)
+- [🌟 Author](#-author)
+- [✅ What Changed (Summary)](#-what-changed-summary)
 
 ---
+
 
 ## 📘 What You’ll Learn
 
