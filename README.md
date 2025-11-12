@@ -1,3 +1,9 @@
+<p>
+  <img alt="CSV" src="https://img.shields.io/badge/data-CSV-blue">
+  <img alt="Excel" src="https://img.shields.io/badge/data-Excel%20(.xlsx)-inactive">
+  <img alt="Git LFS" src="https://img.shields.io/badge/storage-Git%20LFS-success">
+</p>
+
 # Excel A-Z: The Complete Excel and Pivot Table Course
 
 Welcome to the Excel A-Z course!  This project is designed for anyone looking to deepen their Excel knowledge and become a true data analysis expert. We offer a step-by-step approach to mastering Excel's most powerful tools, including Pivot Tables and Pivot Charts.
