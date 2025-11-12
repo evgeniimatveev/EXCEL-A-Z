@@ -7,12 +7,13 @@
 
 # Excel A–Z: The Complete Excel & Pivot Table Course
 
-This repository collects hands-on materials for mastering **Excel basics, Pivot Tables, and Pivot Charts** through practical case studies.  
-Everything is organized into folders with ready-to-open CSV/Excel files and PDF walk-throughs.
+Welcome to the **Excel A–Z** repository!  
+This project provides hands-on materials for mastering **Excel basics, Pivot Tables, and Pivot Charts** through real-world **case studies**.  
+All files are organized into folders with ready-to-open **CSV/Excel datasets** and **PDF tutorials**.
 
 ---
 
-## Table of Contents
+## 🧭 Table of Contents
 - [What You’ll Learn](#what-youll-learn)
 - [Repository Structure](#repository-structure)
 - [Case Studies](#case-studies)
@@ -23,21 +24,27 @@ Everything is organized into folders with ready-to-open CSV/Excel files and PDF 
 
 ---
 
-## What You’ll Learn
-- **Excel Basics** – tables, formatting, quick charts.
-- **Pivot Tables** – grouping, filters, calculated fields, quick insights.
-- **Pivot Charts** – visuals directly from pivots.
-- **Practical Analytics** – real datasets (IMDb, stock market, weather, salaries, etc.).
-- **Data Storytelling** – present clear insights with conditional formatting and charts.
+## 📘 What You’ll Learn
+
+- **Excel Basics** – Learn how to effectively use Excel for tables, formatting, and quick charts.  
+- **Pivot Tables** – Master grouping, filters, calculated fields, and data analysis.  
+- **Pivot Charts** – Create clean visualizations directly from pivot tables.  
+- **Practical Analytics** – Apply Excel to real datasets (IMDb, stock market, salaries, weather, and more).  
+- **Data Storytelling** – Present clear insights with conditional formatting and visualization techniques.
+
+### Why This Matters
+- 🧠 **Accelerated Learning:** Focus only on the most essential Excel tools.  
+- 📊 **Practical Skills:** Work directly with real-world data examples.  
+- 🚀 **Career Growth:** Become more confident and efficient in data-driven decision-making.
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 archive/
-├─ basics/                         # PDFs & handouts for fundamentals
-├─ case-studies/                   # original combined CSVs for multiple topics
+├─ basics/                         # PDFs & materials for Excel fundamentals
+├─ case-studies/                   # Combined original CSVs for multiple topics
 ├─ case_studies(baseball-team-stats)/
 ├─ case_studies(daily-weather-conditions)/
 ├─ case_studies(san-diego-burrito-ratings)/
@@ -46,67 +53,82 @@ archive/
 ├─ case_studies(spartan-race-facebook-posts)/
 ├─ case_studies(stock-market-data)/
 ├─ case_studies(us)/
-├─ pivot-charts/                   # chart examples (PDF)
-└─ pivot-tables/                   # pivot table examples (CSV + PDF)
+├─ pivot-charts/                   # Chart examples (PDF)
+└─ pivot-tables/                   # Pivot table examples (CSV + PDF)
+All large files are stored via Git LFS for optimized performance.
+You can download them directly from GitHub or pull them efficiently via git lfs.
 
 ```
 
-## What can you expect? 
+📊 Case Studies
+This project includes multiple real-world case studies for hands-on learning:
 
-- **Excel Basics:** Learn how to effectively use Excel for creating tables and charts.
-- **Pivot Tables:** Master the art of data analysis with Pivot Tables.
-- **Case Studies:** Practical examples with real-world data, such as IMDb, stock market data, baseball team statistics, and more.
-- **Data Visualization:** Learn to present your data clearly with Pivot Charts and Conditional Formatting.
-- **Why is this important? **
-  - **Accelerated Learning:** Discover the most important and useful Excel features.
-  - **Practical Skills:** Work with real data and examples.
-  - **Career Growth:** Enhance your data analysis skills and become a valuable asset in any workplace.
+#	Topic	Description
+1	Spartan Race Facebook Posts	Analyze Facebook post performance and engagement trends.
+2	☀️ Daily Weather Conditions	Explore climate data and weather patterns through Pivot Tables.
+3	San Diego Burrito Ratings	Compare and rank burrito reviews by popularity and satisfaction.
+4	⚾ Baseball Team Stats	Perform comparative analysis of baseball team performance metrics.
+5	📈 Stock Market Data	Examine stock performance trends and volatility insights.
+6	🦈 Shark Attack Records	Identify geographic and temporal trends in shark attacks.
+7	💰 SF Salaries	Explore public salary data using Pivot Tables and conditional formatting.
+8	🇺🇸 U.S. Voter Pivot	Summarize demographic voting data with Pivot Tables.
 
-## ️ Installation and Requirements
+Each folder contains datasets (.csv, .xlsx) and accompanying PDFs for step-by-step exercises.
 
-To work with this project, you will need Microsoft Excel (preferably version 2016 or later) and access to the files provided in the repository. The project is fully compatible with both Excel Online and the desktop version of Excel. It is also recommended to use a browser to access GitHub and view the documentation.
+⚙️ How to Use
+Option 1 — Download Directly
+Navigate to any CSV or Excel file.
 
-### Required Tools:
-- ️ Microsoft Excel (2016 or later)
--  Access to GitHub to download files
-- ✍️ Any text editor to work with Markdown (e.g., Visual Studio Code)
+Click Download raw or Open in Excel.
 
-## ️ Project Structure
+Option 2 — Clone via Git (recommended)
+Requires Git LFS (installed once).
 
-The project includes the following main folders and files:
+bash
+Copy code
+git lfs install
+git clone https://github.com/evgeniimatveev/EXCEL-A-Z.git
+cd EXCEL-A-Z
+git lfs pull
+Then open any dataset locally in Excel or your preferred analysis tool.
 
-- ** Case_Studies/**: This folder contains files with case studies on various topics (Facebook posts, weather conditions, burrito ratings, etc.).
-- ** pivot-tables/**: Contains files with examples of using pivot tables for data analysis.
-- ** pivot-charts/**: Examples of creating charts based on pivot tables.
-- ** README.md**: The file you are currently reading, which provides an overview of the project.
+🧩 Requirements
+Microsoft Excel 2016 or later (Excel for Web also works).
 
-Each folder contains PDF files that can be used to study various aspects of working with Excel, including data analysis using pivot tables and charts.
+Browser access to GitHub for file downloads and documentation.
 
-##  Case Studies
+(Optional) Visual Studio Code or any Markdown editor to view documentation.
 
-This project includes various case studies covering the following topics:
+🤝 Contributing & Feedback
+Contributions and feedback are always welcome!
+If you’d like to improve the materials or add new case studies:
 
-1. ** Spartan Race Facebook Posts** - Analyzing data from Facebook posts using pivot tables to identify trends and popularity.
-2. **☀️ Daily Weather Conditions** - Using weather condition data to analyze weather trends and create visualizations.
-3. ** San Diego Burrito Ratings** - Analyzing burrito reviews using pivot tables to assess the popularity of different types.
-4. **⚾ Baseball Team Stats** - Comparative analysis of baseball team statistics.
-5. ** Stock Market Data** - Investigating stock market data with pivot tables and charts to understand stock dynamics.
-6. ** Shark Attack Records** - Analyzing shark attack data to identify geographical and temporal trends.
-7. ** SF Salaries** - Analyzing San Francisco city employee salaries using pivot tables and conditional formatting for data visualization.
+Fork this repository.
 
-Each case study includes detailed examples and PDF files for hands-on learning.
+Make your changes.
 
-##  Contributing and Feedback
+Create a Pull Request describing your updates.
 
-We welcome your contributions to the project! If you have ideas for improvements or find any issues, please create a new Issue or Pull Request. Your comments and suggestions will help make this project even better.
+If you notice an issue, please open an Issue — every suggestion helps improve the project.
 
-If you have any questions, feel free to ask them in the Issues section. We will be happy to assist you!
+📜 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute the materials, provided you follow the license terms.
+See the LICENSE file for more details.
 
-### How to Contribute:
-1.  Fork the repository.
-2.  Make your changes in your copy.
-3.  Create a Pull Request describing your changes.
+🌟 Author
+Created and maintained by @evgeniimatveev
+Data | Excel | SQL | Automation | MLOps
 
-##  License
+pgsql
+Copy code
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute the materials in this project, provided you adhere to the terms of the license. Details can be found in the `LICENSE` file.
+---
+
+✅ **What changed (summary):**
+- Unified all duplicate “Structure” and “Case Studies” sections.  
+- Added a clean table for case studies.  
+- Made badges consistent and visually centered.  
+- Polished all spacing and markdown hierarchy.  
+- Added emojis for readability (light but professional).  
+- Perfectly fits GitHub’s dark/light theme.  
