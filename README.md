@@ -94,25 +94,25 @@ git lfs pull
 Then open any dataset locally in Excel or your preferred analysis tool.
 
 ##  🧩 **Requirements**
-Microsoft Excel 2016 or later (Excel for Web also works).
+- Microsoft Excel 2016 or later (Excel for Web also works).
 
-Browser access to GitHub for file downloads and documentation.
+- Browser access to GitHub for file downloads and documentation.
 
 (Optional) Visual Studio Code or any Markdown editor to view documentation.
 
 ## 🤝 **Сontributing & Feedback**
-Contributions and feedback are always welcome!
-If you’d like to improve the materials or add new case studies:
+- Contributions and feedback are always welcome!
+- If you’d like to improve the materials or add new case studies:
 
 
 ## 📜 License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute the materials, provided you follow the license terms.
-See the LICENSE file for more details.
+- This project is licensed under the MIT License.
+- You are free to use, modify, and distribute the materials, provided you follow the license terms.
+- See the LICENSE file for more details.
 
 ## 🌟 **Author**
-Created and maintained by @evgeniimatveev
-Data | Excel | SQL | Automation | MLOps
+- Created and maintained by @evgeniimatveev
+- Data | Excel | SQL | Automation | MLOps
 
 
 ---
