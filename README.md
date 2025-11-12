@@ -1,9 +1,9 @@
-<p align="left">
+<div align="left">
   <img alt="CSV" src="https://img.shields.io/badge/data-CSV-blue">
   <img alt="Excel" src="https://img.shields.io/badge/data-Excel%20(.xlsx)-inactive">
   <img alt="Git LFS" src="https://img.shields.io/badge/storage-Git%20LFS-success">
   <img alt="Status" src="https://img.shields.io/badge/course-Excel%20A–Z-0A84FF">
-</p>
+</div>
 
 ---
 # Excel A–Z: The Complete Excel & Pivot Table Course
