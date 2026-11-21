@@ -1,130 +1,140 @@
-<div align="left">
-  <img alt="CSV" src="https://img.shields.io/badge/data-CSV-blue">
-  <img alt="Excel" src="https://img.shields.io/badge/data-Excel%20(.xlsx)-inactive">
-  <img alt="Git LFS" src="https://img.shields.io/badge/storage-Git%20LFS-success">
-  <img alt="Status" src="https://img.shields.io/badge/course-Excel%20A–Z-0A84FF">
-</div>
+![Excel A-Z banner](assets/banner.svg)
 
----
-# Excel A–Z: The Complete Excel & Pivot Table Course
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-2016%2B-107C41?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pivot_tables-8_case_studies-f2b01e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/data-CSV_·_XLSX_·_PDF-0b5a2e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/storage-Git_LFS-success?style=flat-square"/>
+  <a href=".github/workflows/pivots-run.yml"><img src="https://img.shields.io/badge/GitHub_Actions-pivots_re--computed_in_pandas-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/course-Excel_A–Z-0A84FF?style=flat-square"/>
+</p>
 
-Welcome to the **Excel A–Z** repository!  
-This project provides hands-on materials for mastering **Excel basics, Pivot Tables, and Pivot Charts** through real-world **case studies**.  
-All files are organized into folders with ready-to-open **CSV/Excel datasets** and **PDF tutorials**.
+A hands-on workbook for **Excel pivot tables and pivot charts**: two guides, the IMDb movie database, and eight real case studies, from Facebook posts to shark attacks. The repository keeps the data, the pivot tables exported from Excel as PDFs and CSVs, and a script that **checks the exported numbers** by re-computing them with pandas.
 
----
-
-## 🧭 Table of Contents
-- [📘 What You’ll Learn](#-what-youll-learn)
-- [📂 Repository Structure](#-repository-structure)
-- [📊 Case Studies](#-case-studies)
-- [⚙️ How to Use](#️-how-to-use)
-- [🧩 Requirements](#-requirements)
-- [🤝 Contributing & Feedback](#-contributing--feedback)
-- [📜 License](#-license)
-- [🌟 Author](#-author)
-- [✅ What Changed (Summary)](#-what-changed-summary)
+> *"6 Excel pivot tables, 373 numbers, re-computed from the raw data: 0 differences."*
 
 ---
 
+## Course map
 
-## 📘 What You’ll Learn
-
-- **Excel Basics** – Learn how to effectively use Excel for tables, formatting, and quick charts.  
-- **Pivot Tables** – Master grouping, filters, calculated fields, and data analysis.  
-- **Pivot Charts** – Create clean visualizations directly from pivot tables.  
-- **Practical Analytics** – Apply Excel to real datasets (IMDb, stock market, salaries, weather, and more).  
-- **Data Storytelling** – Present clear insights with conditional formatting and visualization techniques.
-
-### Why This Matters
-- 🧠 **Accelerated Learning:** Focus only on the most essential Excel tools.  
-- 📊 **Practical Skills:** Work directly with real-world data examples.  
-- 🚀 **Career Growth:** Become more confident and efficient in data-driven decision-making.
+| # | Section | What is inside | Files |
+|:-:|---------|----------------|:-----:|
+| 00 | [Quickstart](00-quickstart/) 🎯 | The same three rows as CSV and as a real workbook | 2 |
+| 01 | [Basics](01-basics/) 📘 | PIVOT TABLE 101 and the case-study overview (PDF) | 2 |
+| 02 | [Pivot Tables](02-pivot-tables/) 🧮 | Revenue and budget by genre on the IMDb database | 3 |
+| 03 | [Pivot Charts](03-pivot-charts/) 📊 | Charts built on those pivot tables | 3 |
+| 04 | [Case Studies](04-case-studies/) 🧪 | Eight datasets, one question each | 17 |
+| – | [Data](data/) 📂 | The nine raw CSV files, stored with Git LFS | 9 |
 
 ---
 
-## 📂 Repository Structure
+## Case studies
 
-```text
-archive/
-├─ basics/                         # PDFs & materials for Excel fundamentals
-├─ case-studies/                   # Combined original CSVs for multiple topics
-├─ case_studies(baseball-team-stats)/
-├─ case_studies(daily-weather-conditions)/
-├─ case_studies(san-diego-burrito-ratings)/
-├─ case_studies(sf-salaries)/
-├─ case_studies(shark-attack-records)/
-├─ case_studies(spartan-race-facebook-posts)/
-├─ case_studies(stock-market-data)/
-├─ case_studies(us)/
-├─ pivot-charts/                   # Chart examples (PDF)
-└─ pivot-tables/                   # Pivot table examples (CSV + PDF)
-All large files are stored via Git LFS for optimized performance.
-You can download them directly from GitHub or pull them efficiently via git lfs.
+| # | Case study | Raw data | Question |
+|:-:|------------|:--------:|----------|
+| 01 | [Spartan Race Facebook Posts](04-case-studies/01-spartan-race-facebook-posts/) | 393 rows | Which hour of the day gets the most posts, and which post type earns the most shares, reactions, likes and comments? |
+| 02 | [Daily Weather Conditions](04-case-studies/02-daily-weather-conditions/) | 363 rows | Average maximum temperature per day, and max / min temperature and wind speed per date. |
+| 03 | [San Diego Burrito Ratings](04-case-studies/03-san-diego-burrito-ratings/) | 237 rows | Average tortilla, filling, temperature and synergy scores per burrito type. |
+| 04 | [Baseball Team Stats](04-case-studies/04-baseball-team-stats/) | 624 rows | Wins and losses per year, and per division and team for a chosen season. |
+| 05 | [Stock Market Data](04-case-studies/05-stock-market-data/) | 29,440 rows | Daily open, high, low, close and volume per symbol (AAPL, AMZN), with percent change. |
+| 06 | [Shark Attack Records](04-case-studies/06-shark-attack-records/) | 5,292 rows | Cases per activity and per victim age, with the share of the total. |
+| 07 | [SF Salaries](04-case-studies/07-sf-salaries/) | 24,285 rows | Average base pay and total overtime and other pay per job title and per employee. |
+| 08 | [U.S. Voter Pivot](04-case-studies/08-us-voter-pivot/) | 255 rows | Citizen population, registered and confirmed voters per state and age group. |
+
+Details, file lists and page counts are in [`04-case-studies/`](04-case-studies/).
+
+---
+
+## What the data says
+
+### Stocks: 58 days of AAPL
+
+![AAPL, day by day](assets/aapl-candles.svg)
+
+The Stock Market case study pivots open, high, low, close and volume per day. Drawn as candles, the autumn of 2009 is a steady climb with a gap up in late October.
+
+### Weather: one year in a band
+
+![A year of daily temperatures](assets/temperature-ribbon.svg)
+
+The weather case study averages and sums temperatures per date. Here the whole year is one picture: the hottest day was 98°F on 22 July, the coldest -9°F on 14 February.
+
+### Can you trust a pivot table?
+
+![Excel pivot vs pandas](assets/excel-vs-pandas.svg)
+
+Every pivot above was built by hand in Excel. The manual CI run rebuilds them from the raw CSV with pandas and compares every number: **373 numbers, 0 differences**. Along the way it confirmed two Excel behaviours worth knowing: a pivot table **groups text without regard to case** (`Boogie boarding` and `Boogie Boarding` become one row) but **keeps trailing spaces** (`Body surfing` and `Body surfing ` stay two rows).
+
+---
+
+## Repository layout
 
 ```
-
-## 📊 Case Studies
-This project includes multiple real-world case studies for hands-on learning:
-
-#	Topic	Description
--  1	Spartan Race Facebook Posts	Analyze Facebook post performance and engagement trends.
--  2	☀️ Daily Weather Conditions	Explore climate data and weather patterns through Pivot Tables.
--  3	San Diego Burrito Ratings	Compare and rank burrito reviews by popularity and satisfaction.
--  4	⚾ Baseball Team Stats	Perform comparative analysis of baseball team performance metrics.
--  5	📈 Stock Market Data	Examine stock performance trends and volatility insights.
--  6	🦈 Shark Attack Records	Identify geographic and temporal trends in shark attacks.
--  7	💰 SF Salaries	Explore public salary data using Pivot Tables and conditional formatting.
--  8	🇺🇸 U.S. Voter Pivot	Summarize demographic voting data with Pivot Tables.
-
-Each folder contains datasets (.csv, .xlsx) and accompanying PDFs for step-by-step exercises.
-
-##  ⚙️ **How to Use**
-- Option 1 — Download Directly
-- Navigate to any CSV or Excel file.
-
-- Click Download raw or Open in Excel.
-
-- Option 2 — Clone via Git (recommended)
-- Requires Git LFS (installed once).
+EXCEL-A-Z/
+├── 00-quickstart/          # hello.csv + hello.xlsx
+├── 01-basics/              # 2 PDF guides
+├── 02-pivot-tables/        # IMDb pivot tables (PDF + CSV)
+├── 03-pivot-charts/        # IMDb pivot charts (PDF)
+├── 04-case-studies/
+│   ├── 01-spartan-race-facebook-posts/
+│   ├── ...
+│   └── 08-us-voter-pivot/  # PDFs and CSV exports of the pivot tables
+├── data/                   # the 9 raw CSV files (Git LFS)
+├── assets/                 # README banner and charts
+└── .github/                # CI
 ```
-bash
-Copy code
+
+**Why numbered folders?** The course used to live in 12 branches and later in an `archive/` folder. Now it is a plain folder tree on `main`, in the order you would study it; the history of all those steps is kept in the commit graph.
+
+---
+
+## How to use
+
+**Option 1: in the browser.** Open any file and click *Download raw* (Git LFS files download as the real data) or *Open in Excel*.
+
+**Option 2: clone.** The CSV and XLSX files are stored with [Git LFS](https://git-lfs.com), so install it once:
+
+```bash
 git lfs install
 git clone https://github.com/evgeniimatveev/EXCEL-A-Z.git
 cd EXCEL-A-Z
-git lfs pull
 ```
-Then open any dataset locally in Excel or your preferred analysis tool.
 
-##  🧩 **Requirements**
-- Microsoft Excel 2016 or later (Excel for Web also works).
+Then open the CSV files in Excel (File → Open, or *Data → From Text/CSV*) and build the pivot tables yourself: Insert → PivotTable. Compare your result with the exported pivot in the case study folder.
 
-- Browser access to GitHub for file downloads and documentation.
+**Re-compute the pivots in Python:**
 
-(Optional) Visual Studio Code or any Markdown editor to view documentation.
-
-## 🤝 **Сontributing & Feedback**
-- Contributions and feedback are always welcome!
-- If you’d like to improve the materials or add new case studies:
-
-
-## 📜 License
-- This project is licensed under the MIT License.
-- You are free to use, modify, and distribute the materials, provided you follow the license terms.
-- See the LICENSE file for more details.
-
-## 🌟 **Author**
-- Created and maintained by @evgeniimatveev
-- Data | Excel | SQL | Automation | MLOps
-
+```bash
+uv run --no-project --with pandas python .github/scripts/check_pivots.py
+```
 
 ---
 
-## ✅ **What changed (summary):**
-- Unified all duplicate “Structure” and “Case Studies” sections.  
-- Added a clean table for case studies.  
-- Made badges consistent and visually centered.  
-- Polished all spacing and markdown hierarchy.  
-- Added emojis for readability (light but professional).  
-- Perfectly fits GitHub’s dark/light theme.  
+## Continuous integration
+
+| Workflow | When | What it does |
+|----------|------|--------------|
+| [`files-check.yml`](.github/workflows/files-check.yml) | every push and pull request | Checks file names, `.gitattributes` rules, Git LFS pointers, that every PDF opens, and that README links work. Does not download LFS data |
+| [`pivots-run.yml`](.github/workflows/pivots-run.yml) | **manual**: Actions → *Pivot tables re-computed (manual)* → *Run workflow* | Downloads the LFS data, checks that the CSV, XLSX and PDF files really open, and re-computes 6 pivot tables with pandas against the Excel exports |
+
+Last full run: **6 of 6 pivot tables reproduced exactly.**
+
+---
+
+## Known limitations
+
+- **Only 6 pivots are machine-checked.** They cover 5 datasets (baseball, shark attacks twice, stocks, U.S. voters, IMDb). The Spartan Race, weather, burrito and SF salaries case studies have only PDF exports, which cannot be compared automatically.
+- **The Excel workbooks are not in the repo.** Only the exports (PDF and CSV) are; open the raw CSV in Excel and rebuild the pivot to practise.
+- **Two datasets are Windows-1252, not UTF-8** (`shark-attack-records.csv`, `spartan-race-facebook-posts.csv`); `sf-salaries.csv` has four empty trailing columns.
+- **Case-study PDFs keep their original export number** (`pivot-06.pdf` was `Pivot Table Case Studies (6).pdf`); the gaps in the numbering are in the originals.
+- **`hello.xlsx` was repaired:** it used to be a Markdown table saved under an `.xlsx` name, which Excel cannot open. It is now a real workbook with the same rows.
+
+---
+
+## Tech stack
+
+`Microsoft Excel` · `Pivot Tables` · `Pivot Charts` · `CSV / XLSX / PDF` · `Git LFS` · `pandas` · `GitHub Actions`
+
+---
+
+*Built by [Evgenii Matveev](https://github.com/evgeniimatveev) · Data Analyst / Analytics & MLOps Engineer*
