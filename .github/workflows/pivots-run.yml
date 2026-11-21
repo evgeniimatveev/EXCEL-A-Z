@@ -5,8 +5,6 @@ name: Pivot tables re-computed (manual)
 # every number with the CSV exported from Excel.
 on:
   workflow_dispatch:
-  push:
-    branches: [restructure/single-main-numbered-sections]   # TEMPORARY: to test before merge
 
 permissions:
   contents: read

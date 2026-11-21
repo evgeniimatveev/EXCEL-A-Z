@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="508" viewBox="0 0 980 508" role="img" aria-label="Excel pivot vs pandas">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfefb"/><stop offset="1" stop-color="#e7f3ea"/></linearGradient></defs>
+<rect width="980" height="508" rx="16" fill="url(#bg)" stroke="#cfe3d6"/>
+<text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#14301f">Excel pivot vs pandas</text>
+<text x="32" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#5c7466">Six pivot tables exported from Excel, re-computed from the raw CSV: 373 numbers compared, 0 differences</text>
+<rect x="28" y="104" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="134" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">Baseball: wins / losses per team, 2000</text>
+<rect x="480" y="118" width="72.4" height="20" rx="6" fill="#107C41"/>
+<text x="562.4" y="134" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">30 rows</text>
+<circle cx="928" cy="128" r="14" fill="#107C41"/><path d="M921 128 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="162" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">Shark attacks: cases per age</text>
+<rect x="480" y="176" width="190.7" height="20" rx="6" fill="#107C41"/>
+<text x="680.7" y="192" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">79 rows</text>
+<circle cx="928" cy="186" r="14" fill="#107C41"/><path d="M921 186 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="220" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">Shark attacks: cases per activity, women</text>
+<rect x="480" y="234" width="350.0" height="20" rx="6" fill="#107C41"/>
+<text x="840.0" y="250" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">145 rows</text>
+<circle cx="928" cy="244" r="14" fill="#107C41"/><path d="M921 244 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="278" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="308" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">Stocks: AAPL Open/High/Low/Close/Volume per day</text>
+<rect x="480" y="292" width="140.0" height="20" rx="6" fill="#107C41"/>
+<text x="630.0" y="308" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">58 rows</text>
+<circle cx="928" cy="302" r="14" fill="#107C41"/><path d="M921 302 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="336" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">US voters: three totals per state</text>
+<rect x="480" y="350" width="123.1" height="20" rx="6" fill="#107C41"/>
+<text x="613.1" y="366" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">51 rows</text>
+<circle cx="928" cy="360" r="14" fill="#107C41"/><path d="M921 360 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="394" width="924" height="48" rx="10" fill="#ffffff" stroke="#cfe3d6"/>
+<text x="46" y="424" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#14301f">IMDb: gross revenue and budget per film</text>
+<rect x="480" y="408" width="24.1" height="20" rx="6" fill="#107C41"/>
+<text x="514.1" y="424" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#14301f">10 rows</text>
+<circle cx="928" cy="418" r="14" fill="#107C41"/><path d="M921 418 l5 5 l10 -10" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="32" y="490" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#5c7466">Run by .github/scripts/check_pivots.py. Excel groups text without regard to case but keeps trailing spaces; the check models both.</text>
+</svg>
