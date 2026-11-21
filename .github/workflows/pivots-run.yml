@@ -1,0 +1,26 @@
+name: Pivot tables re-computed (manual)
+
+# Manual only: click "Run workflow" in the Actions tab. No push / PR / schedule triggers.
+# Downloads the Git LFS data files, re-computes the Excel pivot tables with pandas and compares
+# every number with the CSV exported from Excel.
+on:
+  workflow_dispatch:
+  push:
+    branches: [restructure/single-main-numbered-sections]   # TEMPORARY: to test before merge
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          lfs: true
+      - uses: astral-sh/setup-uv@v7
+      - name: Real files must open (CSV, XLSX, PDF)
+        run: uv run --no-project --with pypdf python .github/scripts/check_files.py
+      - name: Re-compute the pivot tables (see Job Summary for the table)
+        run: uv run --no-project --with pandas python .github/scripts/check_pivots.py
